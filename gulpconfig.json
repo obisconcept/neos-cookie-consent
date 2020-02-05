@@ -1,0 +1,21 @@
+{
+  "source": {
+    "styleIncludePaths": [],
+    "vendorStyles": [
+      "node_modules/cookieconsent/build/cookieconsent.min.css"
+    ],
+    "vendorScripts": [
+      "node_modules/cookieconsent/build/cookieconsent.min.js"
+    ],
+    "styles": [
+      "Resources/Private/Assets/Stylesheets/**/*.scss"
+    ],
+    "scripts": [
+      "Resources/Private/Assets/JavaScript/**/*.js"
+    ]
+  },
+  "dest": {
+    "styles": "Resources/Public/Stylesheets",
+    "scripts": "Resources/Public/JavaScript"
+  }
+}

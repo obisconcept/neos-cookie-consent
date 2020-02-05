@@ -1,0 +1,25 @@
+{
+  "name": "neos-cookie-consent",
+  "version": "0.0.0",
+  "repository": "git@github.com:obisconcept/neos-cookie-consent.git",
+  "author": "obis|CONCEPT <dev@obis-concept.de>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "cookieconsent": "^3.1.1"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-clean-css": "^4.2.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-css-globbing": "^0.2.2",
+    "gulp-notify": "^3.2.0",
+    "gulp-plumber": "^1.2.1",
+    "gulp-sass": "^4.0.2",
+    "gulp-sourcemaps": "^2.6.5",
+    "gulp-uglify": "^3.0.2",
+    "gulp-watch": "^5.0.1",
+    "pump": "^3.0.0"
+  }
+}
