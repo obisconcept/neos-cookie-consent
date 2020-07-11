@@ -14,7 +14,7 @@
     "email": "dev@obis-concept.de"
   },
   "require": {
-    "neos/neos": "^3.0.0"
+    "neos/neos": "^4.0.0"
   },
   "extra": {
     "neos": {
